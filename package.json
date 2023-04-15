@@ -9,6 +9,6 @@
     "watch": "^1.0.2"
   },
   "scripts": {
-    "watch": "watch 'pdftoppm -png -singlefile resume.pdf resume' src"
+    "watch": "watch 'pdftoppm -png -singlefile resume.pdf resume' ."
   }
 }
