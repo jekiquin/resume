@@ -1,6 +1,7 @@
 # Resume
 
-<object data="/resume.pdf" type="application/pdf" width="100%"></object>
+Click [here](https://jekiquin.github.io/resume/resume.pdf) to download pdf version of resume
+![resume](/resume.png)
 
 # Credits
 
