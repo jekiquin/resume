@@ -417,7 +417,7 @@
         {}%
         {%
           \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
-          \href{https://github.com/\@github}{\faGithub\acvHeaderIconSep github}%
+          \href{https://github.com/\@github}{\faGithub\acvHeaderIconSep\@github}%
           % \href{https://github.com/\@github}{https://github.com/\@github}%
         }%
       \ifthenelse{\isundefined{\@gitlab}}%
@@ -436,7 +436,7 @@
         {}%
         {%
           \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
-          \href{https://www.linkedin.com/in/\@linkedin}{\faLinkedin\acvHeaderIconSep linkedin}%
+          \href{https://www.linkedin.com/in/\@linkedin}{\faLinkedin\acvHeaderIconSep\@linkedin}%
           % \href{https://www.linkedin.com/in/\@linkedin}{https://www.linkedin.com/in/\@linkedin}%
         }%
       \ifthenelse{\isundefined{\@twitter}}%

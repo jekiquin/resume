@@ -1,11 +1,11 @@
 # Fdb version 3
-["xdvipdfmx"] 1681526613 "/home/jekiquin/Jek/Development/resume-tex/resume.xdv" "/home/jekiquin/Jek/Development/resume-tex/resume.pdf" "/home/jekiquin/Jek/Development/resume-tex/resume" 1681526614
-  "/home/jekiquin/Jek/Development/resume-tex/resume.xdv" 1681526613 30712 22ba2a553c23124f2af3151a93b06c54 "xelatex"
+["xdvipdfmx"] 1681527133 "/home/jekiquin/Jek/Development/resume-tex/resume.xdv" "/home/jekiquin/Jek/Development/resume-tex/resume.pdf" "/home/jekiquin/Jek/Development/resume-tex/resume" 1681527133
+  "/home/jekiquin/Jek/Development/resume-tex/resume.xdv" 1681527133 30772 3b671cf1e5a2dff33676184b9ae25d2a "xelatex"
   (generated)
   "/home/jekiquin/Jek/Development/resume-tex/resume.pdf"
-["xelatex"] 1681526612 "/home/jekiquin/Jek/Development/resume-tex/resume.tex" "/home/jekiquin/Jek/Development/resume-tex/resume.xdv" "resume" 1681526614
+["xelatex"] 1681527132 "/home/jekiquin/Jek/Development/resume-tex/resume.tex" "/home/jekiquin/Jek/Development/resume-tex/resume.xdv" "resume" 1681527133
   "/etc/texmf/web2c/texmf.cnf" 1681516155 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/jekiquin/Jek/Development/resume-tex/resume.aux" 1681526613 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
+  "/home/jekiquin/Jek/Development/resume-tex/resume.aux" 1681527133 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
   "/home/jekiquin/Jek/Development/resume-tex/resume.tex" 1681526612 3388 23770eebcf20de5344ecd835ec41d165 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -166,17 +166,17 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1681517599 4647843 1ce8adc999e2d43b79a8f7e9a3720993 ""
-  "awesome-cv.cls" 1681521297 22285 1eb54c0281861016fe4b582a37b6f1ed ""
-  "resume.aux" 1681526613 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
-  "resume.out" 1681526613 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "awesome-cv.cls" 1681527131 22287 16eeecca888714b1c7449325b05d490e ""
+  "resume.aux" 1681527133 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
+  "resume.out" 1681527133 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
   "resume.tex" 1681526612 3388 23770eebcf20de5344ecd835ec41d165 ""
   "resume/education.tex" 1681522359 749 c1df25caeefc3e41e92bbac8652626be ""
   "resume/experience.tex" 1681521880 2581 fa5e6bd14894e77a0fd6affcec84b85d ""
   "resume/skills.tex" 1681523036 405 0a2f76ca5aea0c7053bf96e5465af62e ""
   (generated)
-  "resume.out"
+  "/home/jekiquin/Jek/Development/resume-tex/resume.xdv"
   "resume.log"
   "resume.xdv"
-  "/home/jekiquin/Jek/Development/resume-tex/resume.xdv"
   "/home/jekiquin/Jek/Development/resume-tex/resume.log"
   "resume.aux"
+  "resume.out"
