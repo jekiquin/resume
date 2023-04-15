@@ -11,6 +11,6 @@
   "scripts": {
     "rename": "cp ./src/resume.pdf Jerick-Iquin.pdf",
     "convert": "pdftoppm -png -singlefile ./src/resume.pdf resume",
-    "watch": "watch 'yarn rename && yarn convert' src"
+    "watch": "watch 'yarn rename && yarn convert' src --wait=0.2"
   }
 }
